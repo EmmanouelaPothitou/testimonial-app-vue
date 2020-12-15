@@ -103,6 +103,11 @@ export default {
 .testimonial:nth-of-type(5) {
   color: var(--color-primary-dark-grayish-blue);
   background-color: var(--color-primary-white);
+  box-shadow:
+      6px 20px 20px rgba(0, 0, 0, 0.034),
+      2px 6px 20px rgba(0, 0, 0, 0.06),
+      7px 9px 16px rgba(0, 0, 0, 0.086),
+      9px 8px 50px rgba(0, 0, 0, 0.12);
 
 }
 
