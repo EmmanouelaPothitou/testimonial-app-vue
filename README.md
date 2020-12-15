@@ -1,24 +1,18 @@
-# testimonials-vue
+# Testimonial app in Vuejs
 
-## Project setup
+## Run locally
+
+1. Install dependencies with
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+2. Open a terminal and run:
+```
+npm run serve:json
+```
+
+3. Open a second terminal and run this command:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
